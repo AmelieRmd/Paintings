@@ -1,3 +1,3 @@
 # Paintings
 
-Painting denoising project using CNN.
+Image denoising using autoencoder in Deep Learning.
